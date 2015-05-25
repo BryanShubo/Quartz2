@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Quartz2JSF:war">
+    <output-path>$PROJECT_DIR$/Quartz2JSF/target</output-path>
+    <root id="archive" name="Quartz2JSF.war">
+      <element id="artifact" artifact-name="Quartz2JSF:war exploded" />
+    </root>
+  </artifact>
+</component>

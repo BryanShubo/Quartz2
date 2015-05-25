@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Quartz.iml" filepath="$PROJECT_DIR$/Quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quartz2Example/Quartz2Example.iml" filepath="$PROJECT_DIR$/Quartz2Example/Quartz2Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quartz2JSF/Quartz2JSF.iml" filepath="$PROJECT_DIR$/Quartz2JSF/Quartz2JSF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quartz2JobListener/Quartz2JobListener.iml" filepath="$PROJECT_DIR$/Quartz2JobListener/Quartz2JobListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quartz2Spring/Quartz2Spring.iml" filepath="$PROJECT_DIR$/Quartz2Spring/Quartz2Spring.iml" />
     </modules>

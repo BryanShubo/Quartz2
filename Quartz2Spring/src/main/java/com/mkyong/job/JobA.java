@@ -9,7 +9,8 @@ public class JobA extends QuartzJobBean {
 	@Override
 	protected void executeInternal(JobExecutionContext arg0)
 			throws JobExecutionException {
-		System.out.println("Job A is runing");
+
+        System.out.println("Quartz2Spring: Job A is runing");
 	}
 
 }

@@ -24,13 +24,16 @@
         <processorPath useClasspath="true" />
         <module name="Quartz2Example" />
         <module name="Quartz2JobListener" />
+        <module name="Quartz2JSF" />
         <module name="Quartz2Spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Quartz" target="1.6" />
+      <module name="Quartz2" target="1.6" />
       <module name="Quartz2Example" target="1.6" />
       <module name="Quartz2JobListener" target="1.6" />
+      <module name="Quartz2JSF" target="1.6" />
       <module name="Quartz2Spring" target="1.6" />
     </bytecodeTargetLevel>
   </component>

@@ -13,6 +13,7 @@
         <module>Quartz2Example</module>
         <module>Quartz2JobListener</module>
         <module>Quartz2Spring</module>
+        <module>Quartz2JSF</module>
     </modules>
 
     <build>
