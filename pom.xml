@@ -14,6 +14,7 @@
         <module>Quartz2JobListener</module>
         <module>Quartz2Spring</module>
         <module>Quartz2JSF</module>
+        <module>Quartz2Struts2</module>
     </modules>
 
     <build>
